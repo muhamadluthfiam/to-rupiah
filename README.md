@@ -75,32 +75,7 @@ console.log(convertToWords(0));
 - `spaceBeforeUnit`: Boolean flag to add space before the unit. Default: `false`.
 
 ### Lisensi
-
-Proyek ini dilisensikan di bawah Lisensi ISC.
-
-ISC License (ISC)
-
-Hak Cipta (c) Tahun 2024
-
-Izin ini diberikan secara gratis, untuk setiap orang yang mendapatkan salinan
-dari perangkat lunak ini dan file dokumentasi terkait ("Perangkat Lunak"), untuk
-berurusan di Perangkat Lunak tanpa batasan, termasuk tanpa batasan hak
-menggunakan, menyalin, mengubah, menggabungkan, menerbitkan, mendistribusikan, mensublisensikan,
-dan / atau menjual salinan dari Perangkat Lunak, dan untuk mengizinkan
-orang-orang yang diberi Perangkat Lunak ini untuk melakukannya, dengan tunduk pada
-kondisi berikut:
-
-Pemberitahuan hak cipta di atas dan pemberitahuan izin ini harus
-dimasukkan dalam semua salinan atau bagian substansial dari Perangkat Lunak.
-
-PERANGKAT LUNAK DIBERIKAN "SEBAGAIMANA ADANYA", TANPA GARANSI APA PUN, HANYA
-EKSPRESI ATAU TERTULIS, TERMASUK TETAPI TIDAK TERBATAS PADA GARANSI
-DAGANG, KESESUAIAN UNTUK TUJUAN TERTENTU DAN NONPELANGGARAN.
-DALAM KEADAAN APA PUN PENULIS ATAU PEMEGANG HAK KECIL TIDAK BERTANGGUNG JAWAB
-DALAM TUNTUTAN, KERUSAKAN ATAU LAINNYA, BAIK DALAM TINDAKAN KONTRAK,
-KESALAHAN ATAU SEBALIKNYA, YANG TIMBUL DARI, KELUAR DARI ATAU SEHUBUNGAN DENGAN PERANGKAT LUNAK
-ATAU PENGGUNAAN ATAU KONTAK DENGAN PERANGKAT LUNAK.
-```
+[MIT](./LICENSE)
 
 ### Acknowledgments
 

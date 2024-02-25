@@ -18,7 +18,7 @@
     "Indonesian Currency"
   ],
   "author": "muhamadluthfiam <mluthfiamrullah@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "homepage": "",
   "devDependencies": {
     "chai": "^5.1.0",
