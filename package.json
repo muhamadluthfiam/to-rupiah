@@ -1,0 +1,30 @@
+{
+  "name": "to-rupiah",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A simple utility library to format currency and convert numbers to words in Indonesian Rupiah.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhamadluthfiam/to-rupiah.git"
+  },
+  "keywords": [
+    "currecy",
+    "K format",
+    "Indonesian Currency"
+  ],
+  "author": "muhamadluthfiam <mluthfiamrullah@gmail.com>",
+  "license": "ISC",
+  "homepage": "",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
