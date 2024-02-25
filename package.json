@@ -1,7 +1,7 @@
 {
   "name": "to-rupiah",
   "type": "module",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple utility library to format currency and convert numbers to words in Indonesian Rupiah.",
   "main": "src/formatCurrency.js",
   "scripts": {
