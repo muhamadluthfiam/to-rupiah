@@ -75,7 +75,7 @@ console.log(convertToWords(0));
 - `spaceBeforeUnit`: Boolean flag to add space before the unit. Default: `false`.
 
 ### Lisensi
-[MIT](./LICENSE)
+[MIT](https://github.com/muhamadluthfiam/to-rupiah/blob/main/LICENSE.txt)
 
 ### Acknowledgments
 
