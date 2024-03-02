@@ -1,7 +1,7 @@
 {
   "name": "to-rupiah",
   "type": "module",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A simple utility library to format currency and convert numbers to words in Indonesian Rupiah.",
   "main": "src/formatCurrency.js",
   "scripts": {
@@ -19,7 +19,7 @@
   ],
   "author": "muhamadluthfiam <mluthfiamrullah@gmail.com>",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/muhamadluthfiam/to-rupiah/#README.md",
   "devDependencies": {
     "chai": "^5.1.0",
     "mocha": "^10.3.0"
